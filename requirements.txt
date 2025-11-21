@@ -18,5 +18,5 @@ streamlit==1.40.1
 # Machine Learning (solo para cargar modelos)
 scikit-learn==1.5.2
 
-# Note: keras no es necesario en Streamlit Cloud si no vas a entrenar modelos
-# Solo se necesita para cargar el modelo pre-entrenado (si lo subes)
+keras>=3.7.0
+tensorflow>=2.18.0
