@@ -1,0 +1,22 @@
+# Requirements para Streamlit Cloud
+# Solo las librerías necesarias para el dashboard
+
+# Base de datos
+pymongo==4.10.1
+dnspython==2.7.0
+
+# Manipulación de datos
+pandas==2.2.3
+numpy==2.1.3
+
+# Visualización
+plotly==5.24.1
+
+# Dashboard
+streamlit==1.40.1
+
+# Machine Learning (solo para cargar modelos)
+scikit-learn==1.5.2
+
+# Note: keras no es necesario en Streamlit Cloud si no vas a entrenar modelos
+# Solo se necesita para cargar el modelo pre-entrenado (si lo subes)
