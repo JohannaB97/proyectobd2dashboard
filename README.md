@@ -20,6 +20,7 @@ Este proyecto implementa un sistema completo de predicción de precios de vivien
 ✅ Entrenar 3 modelos predictivos
 
 ✅ Crear dashboard interactivo conectado a la nube
+
 ---
 
 ##  PASO A PASO
