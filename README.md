@@ -16,7 +16,9 @@ Este proyecto implementa un sistema completo de predicción de precios de vivien
 ## OBJETIVOS DEL PROYECTO
 
 ✅ Desplegar base de datos NoSQL en Azure
+
 ✅ Entrenar 3 modelos predictivos
+
 ✅ Crear dashboard interactivo conectado a la nube
 ---
 
